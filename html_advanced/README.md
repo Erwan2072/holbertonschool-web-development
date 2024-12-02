@@ -69,4 +69,46 @@ cd holbertonschool-web-development/html_advanced
 
 3. Open the index.html file in your preferred browser to view the structure.
 
+```
+open index.html
+```
 
+## **Validation Steps**
+Open the W3C Validator.
+Upload your index.html file or copy-paste its content into the validator.
+Review any errors or warnings and fix them in your code.
+Compare your HTML structure with the Figma file to ensure consistency.
+
+## **Resources**
+Here are some resources to help you complete this project:
+
+HTML Introduction (MDN)
+Learn HTML - W3Schools
+W3C Validator
+Source Sans Pro - Google Fonts
+
+## **Resources**
+Here are some resources to help you complete this project:
+
+- [HTML Introduction (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML): Comprehensive documentation and examples for understanding HTML.
+- [Learn HTML - W3Schools](https://www.w3schools.com/html/): A beginner-friendly guide to HTML concepts and usage.
+- [W3C Validator](https://validator.w3.org/): Validate your HTML code to ensure it complies with web standards.
+- [Source Sans Pro - Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro): Download the required font for the design.
+
+
+## **How to Commit Your Work**
+
+Once your project is complete and validated:
+
+Add your files to Git:
+```
+git add index.html README.md
+```
+Commit your changes with a clear message:
+```
+git commit -m "Add semantic HTML structure and README for Project 0"
+```
+Push your work to GitHub:
+```
+git push
+```
